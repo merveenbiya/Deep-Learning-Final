@@ -36,5 +36,11 @@ Aşağıda genel olarak 1. Model olan CNN Modeli için scorelar tablolaştırıl
 
 ![Sonuç Tablo](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/Tablolar/CNN%20Score.PNG)
 
+**Accuracy ve Loss Grafikleri** <br/>
 
+![veriseti 1](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/1%20CNN/acc%20loss.png)
+![veriseti 2a](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/2%20%20A%20CNN/acc%20loss.png)
+![veriseti 2b](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/2%20B%20CNN/acc%20loss.png)
+![veriseti 3](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/3%20CNN/acc%20loss.png)
+![veriseti 4](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/4%20CNN/ACC%20LOSS.png)
 
