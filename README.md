@@ -40,6 +40,8 @@ Aşağıda genel olarak 1. Model olan CNN Modeli için scorelar tablolaştırıl
 ![Sonuç Tablo](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/Tablolar/CNN%20Score.PNG)
 
 **Accuracy ve Loss Grafikleri** <br/>
+CNN Modeli sırasıyla 1, 2-A, 2-B, 3 ve 4. veriseti üzerinde ayrı ayrı çalıştırılmıştır. Her eğitim için train verisetinden veriler %70 train ve %30 validation veri olarak ayrılmıştır. Epoch 40, batch size olarak referansa sadık kalınmaya çalışılmış 20 kullanılmış fakat verisetine göre 32 ve 256 da kullanılmıştır. <br/>
+Aşağıda sırasıyla verisetlerinin, train ve val değerlerinin 40 epoch üzerinde accuracy ve loss sonuçlarının grafikleri çizdirilmiştir.
 
 ![veriseti 1](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/1%20CNN/acc%20loss.png)
 ![veriseti 2a](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/2%20%20A%20CNN/acc%20loss.png)
