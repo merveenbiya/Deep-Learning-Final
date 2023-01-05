@@ -23,9 +23,9 @@ COVID-19, hızla güncelliğini yitiren istatistiklerle dünya nüfusunu hızla 
 
 **MODELLER**
 
-**1.CNN Modeli** <br/><br/>
+**1.CNN Modeli** <br/>
 
-![CNN Model kod](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/MODELLER/CNN%20MODEL%C4%B0.PNG)
+![CNN Model kod](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/MODELLER/CNN%20MODEL%C4%B0.PNG) <br/>
 ![CNN Model Çıktı](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/MODELLER/CNN.png)
 
 **2. Hibrit CovnLSTM Modeli** <br/>
