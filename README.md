@@ -30,7 +30,7 @@ COVID-19, hızla güncelliğini yitiren istatistiklerle dünya nüfusunu hızla 
 
 **2. Hibrit CovnLSTM Modeli** <br/>
 
-![CovnLSTM Model kod](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/MODELLER/CovnLSTM%20MODEL.PNG)
+![CovnLSTM Model kod](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/MODELLER/CovnLSTM%20MODEL.PNG) <br/>
 ![CovnLSTM Model Çıktı](https://github.com/merveenbiya/Deep-Learning-Final/blob/main/Results/MODELLER/CovnLSTM.png)
 
 **SONUÇLAR** <br/>
