@@ -1,5 +1,8 @@
-# Deep-Learning-Final
-Efficient deep learning approach for augmented detection of Coronavirus disease
+# Derin-Öğrenme-Final
+**Coronavirüs hastalığının artırılmış tespiti için verimli derin öğrenme yaklaşımı** <br/>
+COVID-19, hızla güncelliğini yitiren istatistiklerle dünya nüfusunu hızla etkilemektedir. Açıklamalı Coronavirüs Röntgen ve BT görüntülerinin sınırlı mevcudiyeti nedeniyle, COVID-19'un saptanması, bu hastalığın teşhisinde en büyük zorluk olmaya devam etmektedir. Çalışmada, önerilen derin öğrenme yöntemleri, evrişimli sinir ağı (CNN) ve evrişimli uzun kısa süreli belleğe (ConvLSTM) dayanmaktadır. <br/>
+Önerilen modellerin simülasyonu için iki farklı veri seti benimsenmiştir. İlk veri seti bir dizi CT görüntüsü içerirken, ikinci veri seti bir dizi X-ışını görüntüsü içerir. Bu veri kümelerinin her ikisi de iki kategoriden oluşur: COVID-19 ve normal. Ek olarak, önerilen modelleri doğrulamak için (3.veri seti) COVID-19 ve pnömoni görüntü kategorileri sınıflandırılmıştır. Önerilen derin öğrenme modelleri, hem X-ışını hem de CT görüntüleri ile her iki görüntü türünü içeren birleşik bir veri kümesi olan 4. veriseti üzerinde test edilir.
+
 
 **Referans Paper** <br/>
 [Efficient deep learning approach for augmented detection of Coronavirus disease](https://doi.org/10.1007/s00521-020-05410-8)
